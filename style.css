@@ -1,0 +1,49 @@
+body {
+background-color: linen
+}
+
+
+
+h1 {
+  color: mistyrose;
+  font-family:cursive;
+  background-color: darksalmon;
+  border: 2px solid brown;
+  padding: 15px;
+}
+
+h2 {
+  color: mistyrose;
+  font-family:cursive;
+  background-color: darksalmon;
+  border: 2px solid brown;
+  padding: 10px;
+}
+
+p {
+  color: brown;
+  font-family: cursive;
+}
+
+img
+{
+  border: 2px solid brown;
+  width: 20%;
+  height: 30%;
+  margin-left: 50px;
+}
+
+#highlight
+{
+color: mistyrose;
+background-color: lightsalmon;
+border: 3px dotted brown;
+
+}
+
+.top
+{
+  background-color: seashell;
+  float: left;
+
+}
